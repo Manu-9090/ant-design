@@ -38,7 +38,7 @@ ReactDOM.render(
   <Select
     showSearch
     style={{ width: 200 }}
-    placeholder="Select a person"
+    placeholder="Select begin date"
     optionFilterProp="children"
     onChange={onChange}
     onFocus={onFocus}
